@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "viraj",
+      "email": "nkcenkw",
+      "phone": "9640337631",
+      "dob": "2022-09-14T18:30:00.000Z",
+      "gender": "female",
+      "hobbies": [
+        "reading",
+        "sleeping"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "saicharan",
+      "email": "chinnachinnasaicharan96403@gmail.com",
+      "phone": "9640337631",
+      "dob": "2022-09-16T18:30:00.000Z",
+      "gender": "male",
+      "hobbies": [
+        "reading",
+        "sleeping"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "varun",
+      "email": "anand.reddy.ks@gmail.com",
+      "phone": "31654",
+      "dob": "2004-09-29T18:30:00.000Z",
+      "gender": "other",
+      "hobbies": [
+        "sleeping"
+      ]
+    }
+  ]
+}
