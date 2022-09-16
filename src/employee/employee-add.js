@@ -26,6 +26,7 @@ const AddEmployee=({onEmployeeAdd})=>{
             const obj={};
             obj.id=employes.employees[employes.employees.length-1].id+1;
             obj.name=document.getElementById('name').value;
+            console.log(document.getElementById('name').value);
             obj.email=document.getElementById('email').value;
             obj.phone=document.getElementById('phone').value;
             obj.dob=value;
@@ -48,7 +49,6 @@ const AddEmployee=({onEmployeeAdd})=>{
             else{
               alert("please fill any one deatail");
             }
-            
             onEmployeeAdd();
       }
     return(
